@@ -9,3 +9,10 @@ let value_of_score=Number(score) //this convert the string into the Number
 console.log(typeof value_of_score)
 
 console.log(value_of_score)
+
+let someString=33
+
+let str=String(someString);
+
+console.log(someString)
+console.log(typeof str)
